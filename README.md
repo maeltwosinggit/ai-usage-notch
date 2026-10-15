@@ -1,6 +1,6 @@
-# Codenotch Local (Antigravity Screen Notch)
+# AI Usage Notch (Screen Edge Quota Monitor)
 
-A lightweight, zero-installer floating screen-edge notch for Windows that pins your **Antigravity AI usage limits** directly to your screen, styled after [vinzdg/codenotch](https://github.com/vinzdg/codenotch).
+A lightweight, zero-installer floating screen-edge notch for Windows that pins your **AI assistant usage limits** (Antigravity, Claude, etc.) directly to your screen, inspired by [vinzdg/codenotch](https://github.com/vinzdg/codenotch).
 
 * **100% Policy-Safe**: Runs directly through Python 3.11 with standard library `tkinter`. **No `.exe` installations**, no third-party packages, and zero administrator privileges required.
 * **Dual Circle Indicators**: Displays both your active rolling **5-Hour Limit** (`5h` with reset countdown) and **Weekly Limit** (`Wk`) directly in the main view.
